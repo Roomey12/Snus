@@ -1,0 +1,11 @@
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\bin\Release\net6.0\SnusOperations.deps.json
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\bin\Release\net6.0\SnusOperations.dll
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\bin\Release\net6.0\ref\SnusOperations.dll
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\bin\Release\net6.0\SnusOperations.pdb
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\SnusOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\SnusOperations.AssemblyInfoInputs.cache
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\SnusOperations.AssemblyInfo.cs
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\SnusOperations.csproj.CoreCompileInputs.cache
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\SnusOperations.dll
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\ref\SnusOperations.dll
+C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\obj\Release\net6.0\SnusOperations.pdb

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Snus</id>
+    <version>1.0.0</version>
+    <authors>Oleksandr Lutsenko</authors>
+    <icon>Portioned_snus.jpg</icon>
+    <projectUrl>https://github.com/Roomey12/Snus</projectUrl>
+    <description>Basic operations with snus</description>
+    <releaseNotes>u r welcome</releaseNotes>
+    <copyright>Oleksandr Lutsenko 2022</copyright>
+    <tags>snus, dummy, bebra</tags>
+    <repository url="https://github.com/Roomey12/Snus" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\OleksandrLutsenko\source\repos\SnusOperations\SnusOperations\bin\Release\net6.0\SnusOperations.dll" target="lib\net6.0\SnusOperations.dll" />
+    <file src="C:\Users\OleksandrLutsenko\Desktop\Portioned_snus.jpg" target="\Portioned_snus.jpg" />
+  </files>
+</package>

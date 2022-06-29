@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Oleksandr Lutsenko</Authors>
+    <Company>Snus Entertainemnt</Company>
+    <Product>Snus</Product>
+    <PackageId>Snus</PackageId>
+    <Description>Basic operations with snus</Description>
+    <Copyright>Oleksandr Lutsenko 2022</Copyright>
+    <PackageProjectUrl>https://github.com/Roomey12/Snus</PackageProjectUrl>
+    <PackageIcon>Portioned_snus.jpg</PackageIcon>
+    <RepositoryUrl>https://github.com/Roomey12/Snus</RepositoryUrl>
+    <PackageTags>snus, dummy, bebra</PackageTags>
+    <PackageReleaseNotes> u r welcome</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\Portioned_snus.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
